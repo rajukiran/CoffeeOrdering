@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de0fc81713da4419f417af85cc4081d7bba46db">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cf76b46fdaffd7ce3720d1d7dd137fd3852211c/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_00026f094c94ef1275a7839e2d12674391704eab/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_af6be751569348399ce561dd13261f8a6ce4fc03/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_6a626bc87de06ffbd433614b46f83ac303c3a5da/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_f049b8d43e08ec6d3fffa19a4aa6ecf801cd6028/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_3b8893eeeca5ebd68b6e0628d44018a6e5cc0d38/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_6ebf1546ee4c8ddd77dc245d5fe1a79cd1ed16a2/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="765b170f44cb4899d17ecca7e4b6a566d7aacd4c">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_41ed3011bdffb4c11dcf7a18fdad64b28ce67d73/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_3167c4b1fd557939ab59ca94ecdec2f6589f5f04/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_dc3ac1ff93c32f3fa1a5d6510fa08461d0784b3d/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_6c71c0cf10ae37f830206f14c60ab72fb7000e9b/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.annotation/10.0-b28/30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba/javax.annotation-10.0-b28.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.annotation-10.0-b28_aae3cae1bf862d55c138da2e89592d3ec4d39ad2/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_347d2dd896803c697cd6fef955a5c0993bb2a4f4/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_4a8bcf92d9ba642c0bf808ef52c10c7c58220cbd/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_dd47ba78041ff0a6ff1f1c54ee5b3b3b678d2be1/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_b75f617907ff5c2ec184f0b1deb57bfd402c3547/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_0f3075eacb89507934696cf981c04d340f28fd40/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_4783f2215f8da2b8dc80682f1e9d2a8ad05ea8f5/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_87fd042b4798b4f98eb32085de3858fdcf2949fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/kiran/Restfull Course/NavigationDrawer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_45d7ba867f3c7ff9caa30ec64dacbb3a7e170991/classes.dex" />
+    </item>
+
+</items>

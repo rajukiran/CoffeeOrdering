@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Social Game Network</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="primary_game_name">Primary Game</string>
+    <string name="gender">Gender</string>
+    <string name="secondary_game_name">Secondary Game</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="game_info">Not played any games ... !</string>
+    <string name="activities_info">No activities present ... !</string>
+    <string name="team_info">Not in any team ... !</string>
+    <string name="schedules_info">Currently no schedules ... !</string>
+    <string name="current_activities">ACTIVITIES</string>
+    <string name="current_games">GAMES</string>
+    <string name="current_schedules">SCHEDULES</string>
+    <string name="current_teams">TEAMS</string>
+    <string name="allroles_label">Select Role</string>
+</resources>

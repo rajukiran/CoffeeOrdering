@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="6487889014174"
+    token="-3398990563237172060" >
+
+    <task
+        name="javac"
+        duration="890" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="258" />
+    <task
+        name="verifier"
+        duration="27" />
+
+    <artifact
+        location="/home/kiran/Restfull Course/NavigationDrawer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6487889014174" >
+        <artifact
+            location="/home/kiran/Restfull Course/NavigationDrawer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
